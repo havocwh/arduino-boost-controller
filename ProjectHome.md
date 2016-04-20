@@ -1,0 +1,1 @@
+The purpose of this project is to develop code for use with an arduino micro-controller to effectively regulate the boost pressure of a turbocharged vehicle with respect to throttle position, and all other related brainstorming to an arduino based variable boost controller.
